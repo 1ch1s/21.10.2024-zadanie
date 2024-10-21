@@ -1,0 +1,27 @@
+body {
+    width: 500px;
+}
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+h2 {
+    color: green;
+    text-align: center;
+}
+
+p {
+    text-indent: 40px;
+    line-height: 25px;
+    text-align: justify;
+}
+
+i {
+    color: green;
+}
+
+ul {
+    text-align: justify;
+    width: 400px;
+}
